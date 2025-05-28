@@ -2,4 +2,25 @@
 
 My project will be a dragon breeder
 
-The Dragon Breeder project is interesting because it combines creativity with programming concepts in a fun and engaging way. It challenges me to design complex objects with various attributes and behaviors, such as dragon growth, training, and battling. This project allows me to apply key principles of object-oriented programming like inheritance and polymorphism while creating an interactive system. Additionally, the fantasy theme makes the development process enjoyable and motivates me to think critically about game mechanics, user interaction, and data management. Overall, it’s a perfect blend of technical learning and creative expression.
+The Dragon Breeder project is a simulation where the user plays as a dragon trainer. The goal is to raise, care for, and train dragons of different elemental types. Each dragon has unique attributes that can evolve over time. The user interacts with their dragons by feeding them, training them, assigning them to suitable habitats, and eventually letting them participate in battles.
+
+
+Potential Classes
+Dragon: Represents each individual dragon with stats like health, attack, level, happiness, and type
+
+Trainer: Represents the user, who owns and manages multiple dragons.
+
+Habitat: A place where dragons live, limited by capacity 
+
+Food: Consumable items that reduce a dragon’s hunger and improve its stats.
+
+Battle: A system for simulating combat between two dragons based on their attributes.
+
+
+
+A Trainer can own several Dragons.
+
+A Dragon can live in a Habitat, depending on compatibility.
+
+Food can be given to Dragons to improve their status.
+
