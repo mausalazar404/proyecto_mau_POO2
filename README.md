@@ -6,6 +6,7 @@ The Dragon Breeder project is a simulation where the user plays as a dragon trai
 
 
 Potential Classes
+
 Dragon: Represents each individual dragon with stats like health, attack, level, happiness, and type
 
 Trainer: Represents the user, who owns and manages multiple dragons.
