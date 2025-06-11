@@ -3,7 +3,8 @@ This project is a simple object-oriented simulation where the player takes the r
 The problem this project addresses is how to represent relationships between objects in a game-like system using object-oriented programming. Rather than dealing with abstract examples, this project provides a concrete and engaging setting in which core programming principles—such as encapsulation, composition, and inheritance—can be applied. Each dragon has attributes such as hunger, happiness, and strength, and each trainer can manage multiple dragons. Dragons can be trained to grow stronger and can be fed to keep them happy and energized.
 
 Below is the class diagram that describes the main structure of the system, including relationships between classes and the basic behavior of each one:
-![Proyecto_cpp_2 (1)](https://github.com/user-attachments/assets/02ad268c-578b-4fcf-95e6-f873a12f9d85)
+![Proyecto_cpp_2 (2)](https://github.com/user-attachments/assets/60cfbc91-9124-4355-bcd2-12a7de07d368)
+
 
 
 The Trainer class represents the user or character in charge of raising dragons. This class contains the name of the trainer and a list of dragons they have adopted. It is responsible for performing actions such as adopting a dragon, feeding a specific dragon with a chosen food, and training them to increase their stats.
